@@ -1,4 +1,4 @@
-# SQL-Queries
+# SQL Queries
 The SQL queries I'm building while doing Leetcode and HackerRank exercises.<br/>
 🇧🇷 Repositório com minhas principais consultas SQL resolvidas, organizadas por tipo de operação e com foco em exercícios práticos (HackerRank, LeetCode, entrevistas).
 
